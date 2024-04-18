@@ -1,0 +1,17 @@
+{
+  "name": "plan-of-action-list",
+  "version": "1.0.0s",
+  "type":"module",
+  "bin": "main.js",
+  "main": "index.js" ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rimsha-Adnan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.18"
+  }
+}
